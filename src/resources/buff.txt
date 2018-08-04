@@ -1,0 +1,4 @@
+Alehandro,1920,1200,Alex,Nillson
+Java core,2010,900,Vasya,Pupkin
+Aloe,1990,300,Maga,Loninyan
+Booking,2000,400,Vasyu,Ivanov

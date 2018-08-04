@@ -1,0 +1,5 @@
+Effective Java,2001,900,Josua,Bloh
+Head First Java,2003,800,Bert,Bates
+Java 1.8,2017,550,Loris,Kim
+Java core,1995,2000,Jonh,Adams
+My home,2010,403,Ivan,Ivanov
